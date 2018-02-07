@@ -1,9 +1,9 @@
 {
-  "name": "seamless-mongodb-server",
+  "name": "seamless-server-mongodb",
   "version": "0.0.0",
   "description": "Server-side part for Seamless data-binding client-side framework",
-  "main": "seamless-server.js",
-  "module": "seamless-server.js",
+  "main": "seamless-server-mongodb.js",
+  "module": "seamless-server-mongodb.js",
   "engines": {
     "node": ">=7.5.0"
   },
